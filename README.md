@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning MySQL and Python
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about Web Development
